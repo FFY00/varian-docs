@@ -1,4 +1,4 @@
 # Varian Documents
 
-Archive for Varian/Varex documents (datasheets, user guides, etc.).
+Archive for Varian/Perkin-Elmer/Varex documents (datasheets, user guides, etc.).
 
